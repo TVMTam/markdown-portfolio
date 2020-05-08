@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Baby Groot](https://pngimg.com/uploads/groot/groot_PNG13.png)
